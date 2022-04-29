@@ -1,0 +1,138 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+h1{
+  color: #F5F5F5;
+  font-family: 'Lavishly Yours', cursive;
+  font-size: 4rem;
+  margin: 0px;
+}
+
+h2{
+  color: #3FC1C9;
+}
+
+h3{
+  color: #3FC1C9;
+  margin-top: 0px;
+  font-size: 2rem;
+  font-family: 'Sacramento', cursive;
+}
+
+.pro{
+  font-size: 3rem;
+  color: #FC5185;
+  font-family: serif;
+}
+
+.welcome-content{
+  background-color: #364F6B;
+  padding-top: 100px;
+  height: 30rem;
+  border-bottom: solid 10px;
+  border-color: #FC5185;
+}
+
+.profile-content{
+  background-color: #EFBBCF;
+  position: relative;
+  border-bottom: solid 10px;
+  border-color: #8675A9;
+  line-height: 2;
+}
+
+.education-content{
+  padding: 100px 0;
+  background-color: #C3AED6;
+  height: 30rem;
+  line-height: 2;
+  border-bottom: solid 10px;
+  border-color: #005555;
+}
+
+.contact-content{
+  padding: 100px 0;
+  background-color: #069A8E;
+  height: 20rem;
+  line-height: 2;
+  border-bottom: solid 10px;
+  border-color: #005555;
+  font-family: 'Merriweather', serif;
+  font-weight: bolder;
+}
+
+.profile{
+  width: 50%;
+  padding-top: 100px;
+  margin: 0 auto;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  font-weight: bolder;
+  padding-bottom: 100px;
+}
+
+.education-item{
+  padding-bottom: 100px;
+  width: 70%;
+  margin: 0px auto;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  text-align: left;
+  padding-top: 20px;
+}
+
+.education-anchor{
+  color: #1D5C63;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EDE6DB;
+  background-color: ##C3AED6;
+}
+
+.profile-picture{
+  margin-top: 20px;
+  height: 10rem;
+  width: 10rem;
+}
+
+.code-icon{
+  position: absolute;
+  right: 320px;
+  height: 5.5rem;
+  width: 5.5rem;
+}
+
+.smartphone-icon{
+  position: absolute;
+  top: 400px;
+  left: 320px;
+  height: 5.5rem;
+  width: 5.5rem;
+}
+
+.barcelona-icon{
+  position: absolute;
+  height: 3rem;
+  width: 3rem;
+  top: 500px;
+  right: 250px;
+  transform: rotate(-25deg);
+}
+
+.education-icon{
+  height: 5.5rem;
+  width: 5.5rem;
+  float: left;
+  margin-right: 20px;
+}
+
+.contact-icon{
+  height: 3rem;
+  width: 3rem;
+  margin: 30px 20px;
+}
